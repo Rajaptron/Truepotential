@@ -1,0 +1,118 @@
+[11-Oct-2018 14:13:50 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/microxnm/public_html/truepotential.in/user/db/db.php on line 2
+[11-Oct-2018 14:13:50 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 72
+[11-Oct-2018 14:13:50 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[11-Oct-2018 14:16:31 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/microxnm/public_html/truepotential.in/user/db/db.php on line 2
+[11-Oct-2018 14:16:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 11
+[11-Oct-2018 14:16:31 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 12
+[11-Oct-2018 14:16:31 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 72
+[11-Oct-2018 14:16:31 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[11-Oct-2018 14:17:53 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 8
+[11-Oct-2018 14:17:53 Etc/GMT] PHP Notice:  Undefined variable: con in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 9
+[11-Oct-2018 14:17:53 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 9
+[11-Oct-2018 14:21:31 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:104) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[11-Oct-2018 14:21:36 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 72
+[11-Oct-2018 14:21:36 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:104) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[11-Oct-2018 14:21:36 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[11-Oct-2018 14:55:58 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 8
+[11-Oct-2018 14:55:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 9
+[11-Oct-2018 14:55:58 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 9
+[11-Oct-2018 14:57:16 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 8
+[11-Oct-2018 14:57:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 9
+[11-Oct-2018 14:57:16 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 9
+[11-Oct-2018 14:58:38 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 8
+[11-Oct-2018 14:59:48 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 8
+[11-Oct-2018 15:00:50 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:104) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[11-Oct-2018 16:15:31 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 8
+[11-Oct-2018 16:16:00 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/pricing.php on line 8
+[12-Oct-2018 15:17:03 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:105) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[12-Oct-2018 15:17:07 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 73
+[12-Oct-2018 15:17:07 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:105) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[12-Oct-2018 15:17:07 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[12-Oct-2018 15:17:07 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 118
+[12-Oct-2018 15:17:07 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 119
+[12-Oct-2018 15:17:07 Etc/GMT] PHP Notice:  Undefined variable: email in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 123
+[12-Oct-2018 15:17:16 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 73
+[12-Oct-2018 15:17:16 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[12-Oct-2018 15:17:16 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 118
+[12-Oct-2018 15:17:16 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 119
+[12-Oct-2018 15:17:16 Etc/GMT] PHP Notice:  Undefined variable: email in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 123
+[12-Oct-2018 15:17:22 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 73
+[12-Oct-2018 15:17:22 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[12-Oct-2018 15:17:22 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 118
+[12-Oct-2018 15:17:22 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 119
+[12-Oct-2018 15:17:22 Etc/GMT] PHP Notice:  Undefined variable: email in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 123
+[12-Oct-2018 15:18:25 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:105) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[12-Oct-2018 15:18:31 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 73
+[12-Oct-2018 15:18:31 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:105) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[12-Oct-2018 15:18:31 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[12-Oct-2018 15:19:47 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:105) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[12-Oct-2018 15:19:57 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 73
+[12-Oct-2018 15:19:57 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[12-Oct-2018 15:21:17 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/microxnm/public_html/truepotential.in/user/include/top-nav.php:105) in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 7
+[12-Oct-2018 15:21:20 Etc/GMT] PHP Notice:  Undefined variable: status in /home/microxnm/public_html/truepotential.in/user/include/top-nav.php on line 73
+[12-Oct-2018 15:21:20 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 24
+[12-Oct-2018 15:21:20 Etc/GMT] PHP Notice:  Undefined variable: usid in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 118
+[12-Oct-2018 15:21:20 Etc/GMT] PHP Notice:  Undefined variable: name in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 119
+[12-Oct-2018 15:21:20 Etc/GMT] PHP Notice:  Undefined variable: email in /home/microxnm/public_html/truepotential.in/user/testimonials.php on line 123
+[15-Oct-2018 14:15:37 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/profile.php on line 148
+[15-Oct-2018 14:15:37 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/microxnm/public_html/truepotential.in/user/profile.php on line 194
+[15-Oct-2018 14:15:37 Etc/GMT] PHP Notice:  Undefined variable: school in /home/microxnm/public_html/truepotential.in/user/profile.php on line 199
+[15-Oct-2018 14:15:37 Etc/GMT] PHP Notice:  Undefined variable: class in /home/microxnm/public_html/truepotential.in/user/profile.php on line 204
+[15-Oct-2018 14:15:37 Etc/GMT] PHP Notice:  Undefined variable: city in /home/microxnm/public_html/truepotential.in/user/profile.php on line 209
+[15-Oct-2018 14:15:37 Etc/GMT] PHP Notice:  Undefined variable: state in /home/microxnm/public_html/truepotential.in/user/profile.php on line 214
+[15-Oct-2018 14:15:37 Etc/GMT] PHP Notice:  Undefined variable: address in /home/microxnm/public_html/truepotential.in/user/profile.php on line 219
+[15-Oct-2018 14:17:49 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/profile.php on line 148
+[15-Oct-2018 14:17:49 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/microxnm/public_html/truepotential.in/user/profile.php on line 194
+[15-Oct-2018 14:17:49 Etc/GMT] PHP Notice:  Undefined variable: school in /home/microxnm/public_html/truepotential.in/user/profile.php on line 199
+[15-Oct-2018 14:17:49 Etc/GMT] PHP Notice:  Undefined variable: class in /home/microxnm/public_html/truepotential.in/user/profile.php on line 204
+[15-Oct-2018 14:17:49 Etc/GMT] PHP Notice:  Undefined variable: city in /home/microxnm/public_html/truepotential.in/user/profile.php on line 209
+[15-Oct-2018 14:17:49 Etc/GMT] PHP Notice:  Undefined variable: state in /home/microxnm/public_html/truepotential.in/user/profile.php on line 214
+[15-Oct-2018 14:17:49 Etc/GMT] PHP Notice:  Undefined variable: address in /home/microxnm/public_html/truepotential.in/user/profile.php on line 219
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Warning:  move_uploaded_file(upload/1-C_800x.jpg): failed to open stream: No such file or directory in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phph0O5ES' to 'upload/1-C_800x.jpg' in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/profile.php on line 148
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/microxnm/public_html/truepotential.in/user/profile.php on line 194
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Notice:  Undefined variable: school in /home/microxnm/public_html/truepotential.in/user/profile.php on line 199
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Notice:  Undefined variable: class in /home/microxnm/public_html/truepotential.in/user/profile.php on line 204
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Notice:  Undefined variable: city in /home/microxnm/public_html/truepotential.in/user/profile.php on line 209
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Notice:  Undefined variable: state in /home/microxnm/public_html/truepotential.in/user/profile.php on line 214
+[15-Oct-2018 14:18:05 Etc/GMT] PHP Notice:  Undefined variable: address in /home/microxnm/public_html/truepotential.in/user/profile.php on line 219
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 14
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/profile.php on line 148
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/microxnm/public_html/truepotential.in/user/profile.php on line 194
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: school in /home/microxnm/public_html/truepotential.in/user/profile.php on line 199
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: class in /home/microxnm/public_html/truepotential.in/user/profile.php on line 204
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: city in /home/microxnm/public_html/truepotential.in/user/profile.php on line 209
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: state in /home/microxnm/public_html/truepotential.in/user/profile.php on line 214
+[15-Oct-2018 14:19:09 Etc/GMT] PHP Notice:  Undefined variable: address in /home/microxnm/public_html/truepotential.in/user/profile.php on line 219
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 14
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/profile.php on line 148
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/microxnm/public_html/truepotential.in/user/profile.php on line 194
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: school in /home/microxnm/public_html/truepotential.in/user/profile.php on line 199
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: class in /home/microxnm/public_html/truepotential.in/user/profile.php on line 204
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: city in /home/microxnm/public_html/truepotential.in/user/profile.php on line 209
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: state in /home/microxnm/public_html/truepotential.in/user/profile.php on line 214
+[15-Oct-2018 14:19:38 Etc/GMT] PHP Notice:  Undefined variable: address in /home/microxnm/public_html/truepotential.in/user/profile.php on line 219
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Warning:  move_uploaded_file(upload/1-C_800x.jpg): failed to open stream: No such file or directory in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmKz0yl' to 'upload/1-C_800x.jpg' in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 14
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/profile.php on line 148
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/microxnm/public_html/truepotential.in/user/profile.php on line 194
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: school in /home/microxnm/public_html/truepotential.in/user/profile.php on line 199
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: class in /home/microxnm/public_html/truepotential.in/user/profile.php on line 204
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: city in /home/microxnm/public_html/truepotential.in/user/profile.php on line 209
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: state in /home/microxnm/public_html/truepotential.in/user/profile.php on line 214
+[15-Oct-2018 14:20:01 Etc/GMT] PHP Notice:  Undefined variable: address in /home/microxnm/public_html/truepotential.in/user/profile.php on line 219
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/include/side-nav.php on line 14
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: pimage in /home/microxnm/public_html/truepotential.in/user/profile.php on line 148
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: phone in /home/microxnm/public_html/truepotential.in/user/profile.php on line 194
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: school in /home/microxnm/public_html/truepotential.in/user/profile.php on line 199
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: class in /home/microxnm/public_html/truepotential.in/user/profile.php on line 204
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: city in /home/microxnm/public_html/truepotential.in/user/profile.php on line 209
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: state in /home/microxnm/public_html/truepotential.in/user/profile.php on line 214
+[15-Oct-2018 14:20:11 Etc/GMT] PHP Notice:  Undefined variable: address in /home/microxnm/public_html/truepotential.in/user/profile.php on line 219
+[15-Oct-2018 14:27:38 Etc/GMT] PHP Warning:  move_uploaded_file(upload/1515778205090.png): failed to open stream: No such file or directory in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[15-Oct-2018 14:27:38 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpIL19wI' to 'upload/1515778205090.png' in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[15-Oct-2018 14:28:28 Etc/GMT] PHP Warning:  move_uploaded_file(upload/1515778205090.png): failed to open stream: No such file or directory in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[15-Oct-2018 14:28:28 Etc/GMT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprOyRTU' to 'upload/1515778205090.png' in /home/microxnm/public_html/truepotential.in/user/profile.php on line 42
+[22-Oct-2018 19:42:00 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/microxnm/public_html/truepotential.in/user/edu_doc.php on line 153

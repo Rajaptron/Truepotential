@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteCond ${LeechProtect:/home/microxnm/public_html/truepotential.in:%{REMOTE_USER}:%{REMOTE_ADDR}:2:MahqrePfghg6tY0hCmpNTL7PY6Ih4XJA} leech
+RewriteRule .* /
+AuthType Basic
+AuthName "admin"
+AuthUserFile "/home/microxnm/.htpasswds/public_html/truepotential.in/passwd"
+require valid-user
